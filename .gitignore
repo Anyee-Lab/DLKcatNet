@@ -16,3 +16,4 @@ DLKcat/DeeplearningApproach/Data/input
 *.ipynb_checkpoints/
 *.pyc
 *.env
+.fake
